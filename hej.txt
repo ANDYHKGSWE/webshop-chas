@@ -1,0 +1,12 @@
+MODEL - T EX HÄMTA DATA.
+Ta bort från cart, produkten med DETTA ID..
+SKICKA TILL VIEW
+
+VIEW - DET ÄR DET DU SER PÅ SIDAN.
+Du ser en varukorg, varje produkt har en knapp där det står "Remove from cart". Du klickar på den..
+SKICKAT FRÅN MODEL - Visa varukorgen utan den borttagna produkten.
+
+
+CONTROLLER - EVENTS
+Du har klickat på "remove from cart".. På DETTA ID...
+Skicka till Model..
